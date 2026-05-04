@@ -38,7 +38,7 @@ I'm somewhere between "it works on my machine" and actually knowing what I'm doi
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Neta.ai](https://github.com/WantedChip/aiforbharat)** | AI-powered civic assistant for Bharat — WhatsApp bot helping rural citizens discover government schemes in 8 Indian languages | AWS · Next.js · Python · Bedrock |
+| **[Neta.ai](https://github.com/WantedChip/Neta.ai)** | AI-powered civic assistant for Bharat — WhatsApp bot helping rural citizens discover government schemes in 8 Indian languages | AWS · Next.js · Python · Bedrock |
 | **[NutriGuide AI](https://github.com/WantedChip/NutriGuide-AI)** | Clinical nutrition assistant that turns your health data into personalized meal recommendations | Next.js 15 · React 19 · Tailwind · LLMs |
 
 > *More on my [repositories tab](https://github.com/WantedChip?tab=repositories)*
