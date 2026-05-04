@@ -1,6 +1,6 @@
 # Hey there, I'm Soham 👋
 
-> Third-year CS student from Mumbai · Building things, breaking things, learning from both.
+> Third-year student from Mumbai · Building things, breaking things, learning from both.
 
 I'm somewhere between "it works on my machine" and actually knowing what I'm doing. I write code, ask too many questions, and occasionally ship something I'm proud of.
 
