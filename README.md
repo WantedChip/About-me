@@ -41,7 +41,7 @@ I'm somewhere between "it works on my machine" and actually knowing what I'm doi
 | **[Project Name]** | Short one-liner about what it does | Python / JS / etc. |
 | **[Project Name]** | Short one-liner about what it does | Python / JS / etc. |
 
-> *More on my [repositories tab](https://github.com/soham-mishra?tab=repositories)*
+> *More on my [repositories tab](https://github.com/WantedChip?tab=repositories)*
 
 ---
 
