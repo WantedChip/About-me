@@ -1,0 +1,6 @@
+name = "resume"
+main = "worker.js"
+compatibility_date = "2026-08-03"
+
+[assets]
+directory = "."
