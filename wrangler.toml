@@ -1,4 +1,4 @@
-name = "resume"
+name = "wantedchip-resume"
 main = "worker.js"
 compatibility_date = "2026-08-03"
 
